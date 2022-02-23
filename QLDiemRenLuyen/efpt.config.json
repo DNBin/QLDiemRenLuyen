@@ -1,0 +1,83 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "DataContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "QLDiemRenLuyen",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[CanBo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChucVu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Diem]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Khoa]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KhoaDaoTao]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Lop]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PhieuDanhGia]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Quyen]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SinhVien]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TaiKhoan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ThongBao]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TieuChi]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "NGOCBIN\\SQLEXPRESS.QLDiemRenLuyen",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": true,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
